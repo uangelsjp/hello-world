@@ -1,5 +1,3 @@
 # hello-world
-Just another repository
 
-Hi 
-Good afternoon 
+I got it from remote repository
